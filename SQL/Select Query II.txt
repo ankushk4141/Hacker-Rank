@@ -1,0 +1,3 @@
+Revising the Select Query II.
+The code is for mySql
+select name from CITY where population >= 120000 and countrycode = 'USA';
